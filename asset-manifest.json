@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tweet-generator/static/css/main.43c65464.chunk.css",
+    "main.js": "/tweet-generator/static/js/main.8d876409.chunk.js",
+    "main.js.map": "/tweet-generator/static/js/main.8d876409.chunk.js.map",
+    "runtime-main.js": "/tweet-generator/static/js/runtime-main.e4430c42.js",
+    "runtime-main.js.map": "/tweet-generator/static/js/runtime-main.e4430c42.js.map",
+    "static/js/2.897e4159.chunk.js": "/tweet-generator/static/js/2.897e4159.chunk.js",
+    "static/js/2.897e4159.chunk.js.map": "/tweet-generator/static/js/2.897e4159.chunk.js.map",
+    "static/js/3.5dd7f1bd.chunk.js": "/tweet-generator/static/js/3.5dd7f1bd.chunk.js",
+    "static/js/3.5dd7f1bd.chunk.js.map": "/tweet-generator/static/js/3.5dd7f1bd.chunk.js.map",
+    "index.html": "/tweet-generator/index.html",
+    "static/css/main.43c65464.chunk.css.map": "/tweet-generator/static/css/main.43c65464.chunk.css.map",
+    "static/js/2.897e4159.chunk.js.LICENSE.txt": "/tweet-generator/static/js/2.897e4159.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4430c42.js",
+    "static/js/2.897e4159.chunk.js",
+    "static/css/main.43c65464.chunk.css",
+    "static/js/main.8d876409.chunk.js"
+  ]
+}
